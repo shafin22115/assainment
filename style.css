@@ -1,0 +1,91 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+span{
+    color: orange;
+}
+h1{
+    font-size: 50px;
+}
+.haif-width{
+    width: 40%;
+    float: left;
+    margin: 2%;
+    padding-left: 2%;
+}
+.haif-width img{
+    width: 70%;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.ancor-tag{
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-image: linear-gradient(45deg, royalblue, skyblue);
+    color: white;
+    font-weight: 700;
+}
+.area{
+   
+    background-color: #f8f9fc;
+    margin: none;
+}
+.project{
+    width: 20%;
+    float: left;
+    margin: 10%;
+    padding-left: 1%;
+    display: inline-block;
+    margin: 1px 100px;
+    
+}
+.project img{
+    margin: 1px 12px ;
+    width: 90%;
+}
+.box{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 90%;
+
+    
+}
+#text{
+    text-align: center;
+}
+.last-task{
+    background-image: url();
+}
+.last{
+    background-image: url("image6.png");
+    height: 10px;
+    width: 50%;
+    margin: 150px 450px;
+    border-radius: 5px;
+}
+.last-task{
+    width: 40%;
+    float: left;
+    margin: 2%;
+    padding-left: 2%;
+    color: white;
+}
+.single-ancor{
+    padding-left: 700px;
+    padding-top: 75px;
+   
+}
+.footer-decorate{
+    text-align: center;
+}
+.footer-decorate img{
+    width: 50px;
+}    
+
+    
+
+
